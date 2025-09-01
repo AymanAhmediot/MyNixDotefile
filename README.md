@@ -9,6 +9,7 @@
 - Mako 
 - Picom
 - Kvantum
+- alacritty
 
 ### Move directoryes in config to ~/.config/ 
 
